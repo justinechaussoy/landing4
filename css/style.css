@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@200&family=Lora");
+
+@import url("components/container.css");
+@import url("components/Avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Karla', sans-serif;
+	font-size: 18px;
+	margin: 10px;
+
+}
+h1, h2, h3{
+	font-family: 'Laura', serif;
+	font-weight: bolder;
+	text-decoration: underline;
+	margin: 40px;
+} 
+a {
+	text-decoration: none;
+}
+
+p{
+	font-weight: bolder;
+
+}
